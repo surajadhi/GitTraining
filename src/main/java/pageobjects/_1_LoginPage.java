@@ -23,7 +23,7 @@ public class _1_LoginPage extends Baselibrary {
 	public WebElement getBtnName() {
 		// clickWhenReady(btnName, 10);
 		return webElement(btnName);
-		/***
+		/***/
 	}
 
 }
