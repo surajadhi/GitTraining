@@ -1,0 +1,1006 @@
+2019-05-03 18:33:39,040 INFO  [Log] Actual and Expected page header are matched 
+2019-05-03 18:33:39,776 INFO  [Log] Actual and Expected page header are matched 
+2019-05-03 18:33:51,968 ERROR [Log] Actual and Expected page header are not matched 
+2019-05-03 18:33:52,688 INFO  [Log] Actual and Expected page header are matched 
+2019-05-03 18:33:53,894 INFO  [Log] Number Of Rows = 11 
+2019-05-03 18:33:53,896 INFO  [Log] 1 
+2019-05-03 18:33:53,908 INFO  [Log] Account Clerk 
+2019-05-03 18:33:53,916 INFO  [Log] 2 
+2019-05-03 18:33:53,922 INFO  [Log] Account Clerk 
+2019-05-03 18:33:53,931 INFO  [Log] 3 
+2019-05-03 18:33:53,938 INFO  [Log] Account Clerk 
+2019-05-03 18:33:53,947 INFO  [Log] 4 
+2019-05-03 18:33:53,954 INFO  [Log] Account Clerk 
+2019-05-03 18:33:53,963 INFO  [Log] 5 
+2019-05-03 18:33:53,971 INFO  [Log] Account Clerk 
+2019-05-03 18:33:53,980 INFO  [Log] 6 
+2019-05-03 18:33:53,987 INFO  [Log] Account Clerk 
+2019-05-03 18:33:53,997 INFO  [Log] 7 
+2019-05-03 18:33:54,006 INFO  [Log] Account Clerk 
+2019-05-03 18:33:54,015 INFO  [Log] 8 
+2019-05-03 18:33:54,022 INFO  [Log] Account Clerk 
+2019-05-03 18:33:54,032 INFO  [Log] 9 
+2019-05-03 18:33:54,039 INFO  [Log] Account Clerk 
+2019-05-03 18:33:54,047 INFO  [Log] 10 
+2019-05-03 18:33:54,054 INFO  [Log] Account Clerk 
+2019-05-03 18:33:54,063 INFO  [Log] 11 
+2019-05-03 18:33:54,070 INFO  [Log] Account Clerk 
+2019-05-03 18:33:54,925 INFO  [Log] Ok Button Is clicked successfully 
+2019-05-03 18:33:54,926 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-03 18:33:54,927 ERROR [Log] Admin is not Clicked successfully 
+2019-05-03 18:33:54,927 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-03 18:33:54,928 ERROR [Log] Job is not Clicked successfully 
+2019-05-03 18:33:54,929 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-03 18:33:54,929 ERROR [Log] Job Titles is not Clicked successfully 
+2019-05-15 21:36:24,764 INFO  [Log] Actual and Expected page header are matched 
+2019-05-15 21:36:25,478 INFO  [Log] Actual and Expected page header are matched 
+2019-05-15 21:36:28,331 INFO  [Log] Number Of Rows = 18 
+2019-05-15 21:36:28,338 INFO  [Log] 1 
+2019-05-15 21:36:28,382 INFO  [Log] 2Russel_Hamilton234 
+2019-05-15 21:36:28,397 INFO  [Log] 2Russel_Hamilton234 is available in the grid 
+2019-05-15 21:36:29,302 INFO  [Log] Ok Button Is clicked successfully 
+2019-05-15 21:36:30,323 INFO  [Log] TestPassed: Deleted record is not displayed in resultant grid 
+2019-05-15 21:36:32,474 ERROR [Log] Actual and Expected page header are not matched 
+2019-05-15 21:36:33,483 INFO  [Log] Actual and Expected page header are matched 
+2019-05-15 21:36:34,818 INFO  [Log] Number Of Rows = 15 
+2019-05-15 21:36:34,824 INFO  [Log] 1 
+2019-05-15 21:36:34,873 INFO  [Log] Account Clerk 
+2019-05-15 21:36:34,889 INFO  [Log] 2 
+2019-05-15 21:36:34,898 INFO  [Log] Account Clerk 
+2019-05-15 21:36:34,908 INFO  [Log] 3 
+2019-05-15 21:36:34,917 INFO  [Log] Account Clerk 
+2019-05-15 21:36:34,927 INFO  [Log] 4 
+2019-05-15 21:36:34,936 INFO  [Log] Account Clerk 
+2019-05-15 21:36:34,947 INFO  [Log] 5 
+2019-05-15 21:36:34,956 INFO  [Log] Account Clerk 
+2019-05-15 21:36:34,968 INFO  [Log] 6 
+2019-05-15 21:36:34,977 INFO  [Log] Account Clerk 
+2019-05-15 21:36:34,988 INFO  [Log] 7 
+2019-05-15 21:36:34,997 INFO  [Log] Account Clerk 
+2019-05-15 21:36:35,009 INFO  [Log] 8 
+2019-05-15 21:36:35,019 INFO  [Log] Account Clerk 
+2019-05-15 21:36:35,030 INFO  [Log] 9 
+2019-05-15 21:36:35,039 INFO  [Log] Account Clerk 
+2019-05-15 21:36:35,051 INFO  [Log] 10 
+2019-05-15 21:36:35,061 INFO  [Log] Account Clerk 
+2019-05-15 21:36:35,074 INFO  [Log] 11 
+2019-05-15 21:36:35,086 INFO  [Log] Account Clerk 
+2019-05-15 21:36:35,099 INFO  [Log] 12 
+2019-05-15 21:36:35,109 INFO  [Log] Account Clerk 
+2019-05-15 21:36:35,124 INFO  [Log] 13 
+2019-05-15 21:36:35,134 INFO  [Log] Account Clerk 
+2019-05-15 21:36:35,147 INFO  [Log] 14 
+2019-05-15 21:36:35,154 INFO  [Log] Account Clerk 
+2019-05-15 21:36:35,165 INFO  [Log] 15 
+2019-05-15 21:36:35,173 INFO  [Log] Account Clerk 
+2019-05-15 21:36:36,034 INFO  [Log] Ok Button Is clicked successfully 
+2019-05-15 21:36:36,035 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-15 21:36:36,037 ERROR [Log] Admin is not Clicked successfully 
+2019-05-15 21:36:36,038 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-15 21:36:36,039 ERROR [Log] Job is not Clicked successfully 
+2019-05-15 21:36:36,039 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-15 21:36:36,040 ERROR [Log] Job Titles is not Clicked successfully 
+2019-05-16 20:28:39,846 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,850 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 20:28:39,851 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,852 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,854 ERROR [Log] Exception occurred 
+2019-05-16 20:28:39,855 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,856 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,857 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,857 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,858 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,858 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,859 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,859 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,859 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,860 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,860 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,861 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,862 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,862 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,866 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,866 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 20:28:39,870 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,870 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 20:28:39,871 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,872 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 20:28:39,872 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,873 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 20:28:39,875 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,875 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 20:28:39,875 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,876 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,876 ERROR [Log] Exception occurred 
+2019-05-16 20:28:39,876 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,877 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,877 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,877 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,878 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,878 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,878 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,886 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,887 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,888 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,888 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,889 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,889 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,890 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,890 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,891 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 20:28:39,892 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,893 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 20:28:39,895 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,896 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,896 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,897 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,897 ERROR [Log] Exception occurred 
+2019-05-16 20:28:39,897 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,898 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 20:28:39,898 ERROR [Log] Required table is not identified 
+2019-05-16 20:28:39,898 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,899 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 20:28:39,899 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
+2019-05-16 20:28:39,901 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,901 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,902 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:28:39,902 ERROR [Log] Field is not available 
+2019-05-16 20:28:39,903 ERROR [Log] Exception occurred 
+2019-05-16 20:31:29,509 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,511 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 20:31:29,511 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,512 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 20:31:29,513 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,514 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 20:31:29,516 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,517 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 20:31:29,518 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,519 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,522 ERROR [Log] Exception occurred 
+2019-05-16 20:31:29,522 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,523 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,524 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,524 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,525 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,526 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,526 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,527 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,528 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,529 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,529 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,529 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,530 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,530 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,532 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,533 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 20:31:29,534 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,535 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 20:31:29,535 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,536 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,537 ERROR [Log] Exception occurred 
+2019-05-16 20:31:29,537 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,538 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,538 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,539 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,539 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,539 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,540 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,540 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,541 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,541 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,541 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,542 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,542 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,542 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,543 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,543 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 20:31:29,545 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,545 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,546 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,546 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,546 ERROR [Log] Exception occurred 
+2019-05-16 20:31:29,548 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,548 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 20:31:29,550 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,551 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,551 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,552 ERROR [Log] Field is not available 
+2019-05-16 20:31:29,552 ERROR [Log] Exception occurred 
+2019-05-16 20:31:29,553 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,553 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 20:31:29,554 ERROR [Log] Required table is not identified 
+2019-05-16 20:31:29,554 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:31:29,554 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 20:31:29,555 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
+2019-05-16 20:48:49,052 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,056 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 20:48:49,058 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,059 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 20:48:49,061 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,062 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 20:48:49,066 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,067 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 20:48:49,068 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,069 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,071 ERROR [Log] Exception occurred 
+2019-05-16 20:48:49,071 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,072 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,072 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,073 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,073 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,074 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,075 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,076 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,076 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,077 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,077 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,078 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,078 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,078 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,080 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,080 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 20:48:49,082 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,083 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 20:48:49,083 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,084 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,084 ERROR [Log] Exception occurred 
+2019-05-16 20:48:49,084 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,085 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,085 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,085 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,085 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,085 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,087 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,087 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,088 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,088 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,088 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,089 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,089 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,089 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,090 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,090 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 20:48:49,091 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,092 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,092 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,093 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,094 ERROR [Log] Exception occurred 
+2019-05-16 20:48:49,096 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,097 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 20:48:49,099 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,099 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,100 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,100 ERROR [Log] Field is not available 
+2019-05-16 20:48:49,101 ERROR [Log] Exception occurred 
+2019-05-16 20:48:49,101 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,102 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 20:48:49,102 ERROR [Log] Required table is not identified 
+2019-05-16 20:48:49,103 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:48:49,103 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 20:48:49,104 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
+2019-05-16 20:50:51,094 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,097 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 20:50:51,098 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,098 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 20:50:51,099 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,100 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 20:50:51,103 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,104 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 20:50:51,105 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,105 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,108 ERROR [Log] Exception occurred 
+2019-05-16 20:50:51,109 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,109 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,110 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,111 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,111 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,112 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,113 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,114 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,114 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,115 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,116 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,116 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,116 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,117 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,118 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,119 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 20:50:51,120 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,121 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 20:50:51,121 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,121 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,122 ERROR [Log] Exception occurred 
+2019-05-16 20:50:51,122 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,122 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,123 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,123 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,123 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,124 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,124 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,124 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,125 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,125 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,125 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,126 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,126 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,126 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,127 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,127 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 20:50:51,129 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,130 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,130 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,130 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,131 ERROR [Log] Exception occurred 
+2019-05-16 20:50:51,133 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,133 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 20:50:51,135 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,135 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,135 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,136 ERROR [Log] Field is not available 
+2019-05-16 20:50:51,136 ERROR [Log] Exception occurred 
+2019-05-16 20:50:51,136 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,137 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 20:50:51,137 ERROR [Log] Required table is not identified 
+2019-05-16 20:50:51,137 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 20:50:51,138 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 20:50:51,138 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
+2019-05-16 21:25:53,570 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,571 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 21:25:53,572 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,573 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 21:25:53,575 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,575 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 21:25:53,579 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,580 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:25:53,581 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,582 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,585 ERROR [Log] Exception occurred 
+2019-05-16 21:25:53,586 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,586 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,587 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,588 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,588 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,589 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,589 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,590 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,591 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,591 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,591 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,592 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,592 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,592 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,595 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,596 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 21:25:53,598 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,599 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:25:53,599 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,600 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,600 ERROR [Log] Exception occurred 
+2019-05-16 21:25:53,601 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,601 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,601 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,602 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,602 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,603 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,603 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,604 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,604 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,605 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,605 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,606 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,606 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,607 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,607 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,608 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 21:25:53,610 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,611 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,611 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,612 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,613 ERROR [Log] Exception occurred 
+2019-05-16 21:25:53,615 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,616 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 21:25:53,619 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,620 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,620 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,621 ERROR [Log] Field is not available 
+2019-05-16 21:25:53,621 ERROR [Log] Exception occurred 
+2019-05-16 21:25:53,622 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,622 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 21:25:53,625 ERROR [Log] Required table is not identified 
+2019-05-16 21:25:53,626 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:25:53,626 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 21:25:53,627 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
+2019-05-16 21:28:47,170 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,172 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 21:28:47,173 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,174 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 21:28:47,175 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,176 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 21:28:47,180 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,180 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:28:47,181 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,182 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,189 ERROR [Log] Exception occurred 
+2019-05-16 21:28:47,190 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,191 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,192 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,192 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,193 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,194 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,194 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,195 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,195 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,196 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,197 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,197 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,198 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,198 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,201 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,201 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 21:28:47,204 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,204 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:28:47,205 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,205 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,206 ERROR [Log] Exception occurred 
+2019-05-16 21:28:47,206 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,207 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,207 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,208 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,208 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,209 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,209 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,209 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,210 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,210 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,211 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,211 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,212 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,212 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,213 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,213 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 21:28:47,215 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,216 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,216 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,217 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,217 ERROR [Log] Exception occurred 
+2019-05-16 21:28:47,219 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,219 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 21:28:47,221 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,222 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,222 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,223 ERROR [Log] Field is not available 
+2019-05-16 21:28:47,223 ERROR [Log] Exception occurred 
+2019-05-16 21:28:47,224 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,224 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 21:28:47,226 ERROR [Log] Required table is not identified 
+2019-05-16 21:28:47,227 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:28:47,227 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 21:28:47,228 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
+2019-05-16 21:31:53,841 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,843 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 21:31:53,844 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,844 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 21:31:53,845 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,846 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 21:31:53,849 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,850 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:31:53,850 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,851 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,853 ERROR [Log] Exception occurred 
+2019-05-16 21:31:53,853 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,854 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,854 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,855 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,855 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,856 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,856 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,857 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,858 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,858 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,859 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,859 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,860 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,860 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,863 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,863 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 21:31:53,866 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,867 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:31:53,867 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,868 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,868 ERROR [Log] Exception occurred 
+2019-05-16 21:31:53,868 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,869 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,869 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,869 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,870 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,870 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,870 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,871 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,871 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,871 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,871 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,872 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,872 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,872 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,873 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,873 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 21:31:53,875 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,876 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,876 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,876 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,877 ERROR [Log] Exception occurred 
+2019-05-16 21:31:53,878 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,879 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 21:31:53,881 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,881 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,882 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,882 ERROR [Log] Field is not available 
+2019-05-16 21:31:53,883 ERROR [Log] Exception occurred 
+2019-05-16 21:31:53,883 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,884 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 21:31:53,887 ERROR [Log] Required table is not identified 
+2019-05-16 21:31:53,887 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:31:53,887 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 21:31:53,888 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
+2019-05-16 21:32:44,908 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,910 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 21:32:44,911 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,912 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 21:32:44,913 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,914 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 21:32:44,918 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,919 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:32:44,920 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,921 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,922 ERROR [Log] Exception occurred 
+2019-05-16 21:32:44,923 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,924 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,924 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,925 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,925 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,926 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,926 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,927 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,928 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,929 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,932 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,933 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,933 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,934 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,936 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,936 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 21:32:44,942 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,943 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:32:44,943 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,944 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,944 ERROR [Log] Exception occurred 
+2019-05-16 21:32:44,944 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,945 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,945 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,945 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,946 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,946 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,947 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,947 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,947 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,948 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,948 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,949 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,949 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,950 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,950 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,951 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 21:32:44,952 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,953 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,953 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,953 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,954 ERROR [Log] Exception occurred 
+2019-05-16 21:32:44,955 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,956 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 21:32:44,958 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,959 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,959 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,960 ERROR [Log] Field is not available 
+2019-05-16 21:32:44,960 ERROR [Log] Exception occurred 
+2019-05-16 21:32:44,961 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,961 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 21:32:44,963 ERROR [Log] Required table is not identified 
+2019-05-16 21:32:44,963 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:32:44,964 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 21:32:44,964 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
+2019-05-16 21:33:53,298 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,299 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 21:33:53,300 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,301 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 21:33:53,302 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,303 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 21:33:53,306 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,307 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:33:53,308 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,308 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,309 ERROR [Log] Exception occurred 
+2019-05-16 21:33:53,310 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,310 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,311 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,311 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,311 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,312 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,312 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,313 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,313 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,314 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,314 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,315 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,315 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,315 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,317 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,318 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 21:33:53,319 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,320 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:33:53,320 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,320 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,321 ERROR [Log] Exception occurred 
+2019-05-16 21:33:53,321 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,321 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,322 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,322 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,322 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,323 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,323 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,323 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,324 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,324 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,324 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,325 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,325 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,325 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,326 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,326 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 21:33:53,328 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,328 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,328 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,329 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,329 ERROR [Log] Exception occurred 
+2019-05-16 21:33:53,331 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,331 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 21:33:53,334 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,334 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,335 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,335 ERROR [Log] Field is not available 
+2019-05-16 21:33:53,336 ERROR [Log] Exception occurred 
+2019-05-16 21:33:53,336 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,337 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 21:33:53,339 ERROR [Log] Required table is not identified 
+2019-05-16 21:33:53,340 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:33:53,340 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 21:33:53,341 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
+2019-05-16 21:37:01,664 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,666 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:37:01,667 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,667 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,669 ERROR [Log] Exception occurred 
+2019-05-16 21:37:01,669 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,670 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,670 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,671 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,671 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,672 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,672 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,673 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,673 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,674 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,674 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,675 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,675 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,675 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,677 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,678 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 21:37:01,678 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,679 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 21:37:01,679 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,680 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 21:37:01,682 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,682 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 21:37:01,684 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,685 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:37:01,685 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,686 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,686 ERROR [Log] Exception occurred 
+2019-05-16 21:37:01,686 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,687 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,687 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,688 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,688 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,688 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,689 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,689 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,689 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,690 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,690 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,691 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,691 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,691 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,692 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,692 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 21:37:01,694 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,695 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,695 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,695 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,696 ERROR [Log] Exception occurred 
+2019-05-16 21:37:01,698 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,699 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 21:37:01,701 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,702 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,702 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,703 ERROR [Log] Field is not available 
+2019-05-16 21:37:01,703 ERROR [Log] Exception occurred 
+2019-05-16 21:37:01,704 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,704 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 21:37:01,705 ERROR [Log] Required table is not identified 
+2019-05-16 21:37:01,705 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:37:01,706 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 21:37:01,706 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
+2019-05-16 21:38:01,176 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,178 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:38:01,179 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,179 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,181 ERROR [Log] Exception occurred 
+2019-05-16 21:38:01,181 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,182 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,182 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,183 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,183 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,184 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,184 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,184 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,185 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,185 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,186 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,186 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,186 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,187 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,189 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,190 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 21:38:01,190 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,191 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 21:38:01,191 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,192 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 21:38:01,193 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,194 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 21:38:01,195 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,196 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:38:01,196 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,197 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,197 ERROR [Log] Exception occurred 
+2019-05-16 21:38:01,197 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,198 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,198 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,199 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,199 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,199 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,200 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,200 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,200 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,201 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,201 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,201 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,202 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,202 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,202 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,203 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 21:38:01,205 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,206 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,206 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,207 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,207 ERROR [Log] Exception occurred 
+2019-05-16 21:38:01,209 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,209 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 21:38:01,212 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,212 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,213 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,213 ERROR [Log] Field is not available 
+2019-05-16 21:38:01,214 ERROR [Log] Exception occurred 
+2019-05-16 21:38:01,214 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,215 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 21:38:01,215 ERROR [Log] Required table is not identified 
+2019-05-16 21:38:01,216 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:38:01,216 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 21:38:01,217 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
+2019-05-16 21:39:16,368 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,369 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:39:16,370 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,371 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,373 ERROR [Log] Exception occurred 
+2019-05-16 21:39:16,373 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,374 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,375 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,375 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,376 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,376 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,377 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,377 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,378 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,378 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,379 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,379 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,380 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,380 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,383 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,384 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 21:39:16,384 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,385 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 21:39:16,385 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,386 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 21:39:16,389 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,390 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 21:39:16,398 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,399 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:39:16,400 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,401 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,401 ERROR [Log] Exception occurred 
+2019-05-16 21:39:16,401 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,402 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,402 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,402 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,403 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,403 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,403 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,404 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,404 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,405 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,405 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,405 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,406 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,406 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,407 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,407 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 21:39:16,411 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,411 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,411 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,411 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,412 ERROR [Log] Exception occurred 
+2019-05-16 21:39:16,414 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,414 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 21:39:16,417 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,418 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,418 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,419 ERROR [Log] Field is not available 
+2019-05-16 21:39:16,419 ERROR [Log] Exception occurred 
+2019-05-16 21:39:16,420 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,421 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 21:39:16,424 ERROR [Log] Required table is not identified 
+2019-05-16 21:39:16,424 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:39:16,426 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 21:39:16,428 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
+2019-05-16 21:40:58,509 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,511 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:40:58,511 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,512 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,515 ERROR [Log] Exception occurred 
+2019-05-16 21:40:58,515 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,516 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,517 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,517 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,518 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,519 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,519 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,520 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,520 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,521 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,522 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,522 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,523 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,524 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,527 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,527 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 21:40:58,528 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,529 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 21:40:58,529 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,530 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 21:40:58,533 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,533 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 21:40:58,534 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,535 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:40:58,535 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,535 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,536 ERROR [Log] Exception occurred 
+2019-05-16 21:40:58,536 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,536 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,537 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,537 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,537 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,538 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,538 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,539 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,539 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,539 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,540 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,540 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,540 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,541 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,541 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,541 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 21:40:58,543 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,544 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,544 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,544 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,545 ERROR [Log] Exception occurred 
+2019-05-16 21:40:58,546 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,547 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 21:40:58,548 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,549 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,549 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,549 ERROR [Log] Field is not available 
+2019-05-16 21:40:58,550 ERROR [Log] Exception occurred 
+2019-05-16 21:40:58,550 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,550 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 21:40:58,551 ERROR [Log] Required table is not identified 
+2019-05-16 21:40:58,551 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:40:58,551 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 21:40:58,552 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
+2019-05-16 21:43:57,590 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,592 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:43:57,593 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,594 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,597 ERROR [Log] Exception occurred 
+2019-05-16 21:43:57,598 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,598 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,599 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,600 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,601 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,602 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,602 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,603 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,603 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,604 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,604 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,605 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,605 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,606 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,609 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,610 ERROR [Log] Admin Menu is not Clicked successfully 
+2019-05-16 21:43:57,611 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,611 ERROR [Log] Organization Menu is not Clicked successfully 
+2019-05-16 21:43:57,612 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,612 ERROR [Log] Location Menu is not Clicked successfully 
+2019-05-16 21:43:57,615 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,615 ERROR [Log] Cancel Button is not Clicked successfully 
+2019-05-16 21:43:57,617 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,618 ERROR [Log] Add Button is not Clicked successfully 
+2019-05-16 21:43:57,618 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,618 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,619 ERROR [Log] Exception occurred 
+2019-05-16 21:43:57,619 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,619 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,620 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,620 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,620 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,621 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,621 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,621 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,622 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,622 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,622 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,636 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,636 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,636 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,637 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,637 ERROR [Log] Save Button is not Clicked successfully 
+2019-05-16 21:43:57,639 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,639 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,639 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,640 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,640 ERROR [Log] Exception occurred 
+2019-05-16 21:43:57,642 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,643 ERROR [Log] Reset Button is not Clicked successfully 
+2019-05-16 21:43:57,645 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,646 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,646 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,647 ERROR [Log] Field is not available 
+2019-05-16 21:43:57,647 ERROR [Log] Exception occurred 
+2019-05-16 21:43:57,648 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,648 ERROR [Log] Search Button is not Clicked successfully 
+2019-05-16 21:43:57,649 ERROR [Log] Required table is not identified 
+2019-05-16 21:43:57,650 ERROR [Log] Exception occurredjava.lang.NullPointerException 
+2019-05-16 21:43:57,650 ERROR [Log] Delete Button is not Clicked successfully 
+2019-05-16 21:43:57,651 ERROR [Log] Dialog Cancel ButtonIs not clicked successfully 
